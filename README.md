@@ -1,2 +1,2 @@
 # Writeups
-CTF solutions and writeups
+Soluciones a CTFs y writeups

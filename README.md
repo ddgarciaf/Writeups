@@ -1,2 +1,2 @@
 # Writeups
-Soluciones a CTFs y writeups
+https://imgur.com/qzVMVSR.png

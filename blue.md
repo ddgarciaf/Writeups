@@ -18,7 +18,7 @@ Una vez establecida la conexión vamos a hacer un escaneo de los puertos abierto
 
 Vemos que hay 4 puertos abiertos y entre ellos tenemos el 445 por lo que posiblemente haya un protocolo SMB por detrás de ese puerto. Para obtener mas información de los puertos abiertos, vamos a hacer un reconocimiento de vulnerabilidades para los puertos que hemos encontrado:
 
-<div style="text-align:center"><img src="https://imgur.com/ekuLvi9.png" /></div>
+![Carbon](https://imgur.com/ekuLvi9)
 
 y encontramos que bajo el puerto 445 hay un script vulnerable, mas específicamente el ms17-010. Vamos a echar un vistazo en "exploit.db" para saber más sobre el script:
 

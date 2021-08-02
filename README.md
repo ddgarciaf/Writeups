@@ -1,2 +1,2 @@
 # Writeups
-https://imgur.com/qzVMVSR.png
+![alt text](https://imgur.com/qzVMVSR.png)

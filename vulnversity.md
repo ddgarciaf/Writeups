@@ -50,7 +50,7 @@ Ahora lo que haremos sera irnos al directorio /internal/uploads que nos lo facil
 
 Una vez estemos en el directorio de los ficheros subidos nos abriremos a la esucha con NetCat el puerto que hayamos especificado en la reverse shell y ejecutaremos la shell desde la web:
 
-![9 running reverse shell](C:\Users\ddgar\Escritorio\Github\Writeups\Vulnversity\9 running reverse shell.png)
+![9 running reverse shell](https://imgur.com/TQoEMv1.png)
 
 ¡Estamos dentro! Vemos que no tenemos privilegios asi que vamos a buscar la flag del user:
 
@@ -76,7 +76,7 @@ Para hacerlo usaremos SimpleHTTPserver o su correspondiente http.server para Pyt
 
 Nos ponemos a la escucha, ejecutamos el servicio y....
 
-![14 starting service](C:\Users\ddgar\Escritorio\Github\Writeups\Vulnversity\14 starting service.png)
+![14 starting service](https://imgur.com/C7FBJ4t.png)
 
 ¡Estamos dentro! Ahora solo nos queda ir en busca de la flag del usuario root y ya habríamos terminado la room.
 
